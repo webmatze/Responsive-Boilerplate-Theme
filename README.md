@@ -4,7 +4,7 @@ Personal Portfolio Of Mathias Karstädt
 Introduction
 ------------
 
-This is a WordPress theme for my personal portfolio site mathiaskarstaedt.de
+This is a WordPress theme for my personal portfolio site http://mathiaskarstaedt.de
 
 It is a Child Theme for the wonderful Boilerplate 3.0 theme by Aaron T. Grogg (http://aarontgrogg.com/boilerplate/)
 This theme also uses code of the responsive-template by verika (http://verekia.com/initializr/responsive-template)
