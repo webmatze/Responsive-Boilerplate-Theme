@@ -1,0 +1,11 @@
+/*
+Theme Name:     MathiasKarstaedt.de Theme
+Theme URI:      http: //mathiaskarstaedt.de/
+Description:    Child theme for the Boilerplate 3.0 theme 
+Author:         Mathias Karstädt
+Author URI:     http: //webmatze.de/
+Template:       boilerplate
+Version:        0.1.0
+*/
+
+@import url("../boilerplate/style.css");
